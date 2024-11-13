@@ -1,0 +1,7 @@
+**/src/dataset
+**/src/videos
+.venv/
+.env
+client_secrets.json
+**/src/modelo_final
+**/src/modelo_predicao
